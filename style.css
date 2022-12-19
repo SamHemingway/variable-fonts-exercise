@@ -11,6 +11,7 @@ html {
   --color-gray-1000: hsl(270deg 20% 8%);
 
   --ff-primary: "Raleway", sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 html,
